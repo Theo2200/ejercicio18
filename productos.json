@@ -16,5 +16,11 @@
     "descripcion": "cola",
     "precio": 120.0,
     "stock": 0
+  },
+  {
+    "nombre": "pepsi",
+    "descripcion": "bebida",
+    "precio": 110.0,
+    "stock": 448
   }
 ]
