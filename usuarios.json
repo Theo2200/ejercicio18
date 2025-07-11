@@ -10,5 +10,9 @@
   {
     "nombre": "juan",
     "contrase\u00f1a": "juan1234"
+  },
+  {
+    "nombre": "carlo",
+    "contrase\u00f1a": "carl"
   }
 ]
