@@ -10,5 +10,11 @@
     "descripcion": "carnes",
     "precio": 550.0,
     "stock": 53
+  },
+  {
+    "nombre": "cok",
+    "descripcion": "cola",
+    "precio": 120.0,
+    "stock": 0
   }
 ]
