@@ -21,12 +21,12 @@ if [[ -n $(git status --porcelain) ]]; then
 
   # Se Sube el nuevo README
   git add README.md
-  git commit -m "📄 Actualización del README con fecha"
+  git commit -m "Actualización del README con fecha"
   git push origin main
 
   echo "Todo listo: Cambios subidos y README actualizado."
 
 else
   # Si no hay cambios, se muestra este mensaje
-  echo "📭 No hay cambios nuevos para subir."
+  echo "No hay cambios nuevos para subir."
 fi

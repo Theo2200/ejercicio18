@@ -3,6 +3,12 @@
     "nombre": "coca",
     "descripcion": "bebida",
     "precio": 100.0,
-    "stock": 22
+    "stock": 21
+  },
+  {
+    "nombre": "provaca",
+    "descripcion": "carnes",
+    "precio": 550.0,
+    "stock": 53
   }
 ]
