@@ -22,5 +22,11 @@
     "descripcion": "bebida",
     "precio": 110.0,
     "stock": 447
+  },
+  {
+    "nombre": "lapicera",
+    "descripcion": "objeto para escribir",
+    "precio": 50.0,
+    "stock": 48
   }
 ]
