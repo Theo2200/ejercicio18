@@ -34,5 +34,11 @@
     "descripcion": "bebida",
     "precio": 110.0,
     "stock": 350
+  },
+  {
+    "nombre": "cuaderno",
+    "descripcion": "objeto que se usa para escribir",
+    "precio": 50.0,
+    "stock": 23
   }
 ]
