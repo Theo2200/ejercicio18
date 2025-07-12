@@ -28,5 +28,11 @@
     "descripcion": "objeto para escribir",
     "precio": 50.0,
     "stock": 48
+  },
+  {
+    "nombre": "coca-cola",
+    "descripcion": "bebida",
+    "precio": 110.0,
+    "stock": 350
   }
 ]
